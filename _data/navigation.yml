@@ -12,8 +12,8 @@
   dropdown:
   - title: "出发点"
     url: "/我们的回忆"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "观影记录"
+    url: "/观影记录/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"

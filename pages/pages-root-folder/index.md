@@ -15,7 +15,7 @@ widget1:
   text: '总写小作文真是让人讨厌，可是我管不住自己，总是想记录下来些什么，将我的爱打包好小心翼翼再落笔。'
 widget2:
   title: "Anniversary video"
-  url: 'https://github.com/mysimpleboy/mysimpleboy.github.io/'
+  url: 'https://mysimpleboy.github.io/video/'
   text: '这是我给你制作的三个月纪念视频，我曾经说过要给你一个惊喜，这个视频只是很小的一部分'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://mysimpleboy.github.io/images/love-unsplash.jpg" width="302" height="200" alt=""/></a>'
 

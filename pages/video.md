@@ -7,5 +7,6 @@ permalink: "/video/"
 ---
 
 
-<iframe src="//player.bilibili.com/player.html?aid=508867519&bvid=BV1Ju41197aw&cid=500750736&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+
+iframe: "<iframe width='970' height='546' src="//player.bilibili.com/player.html?aid=508867519&bvid=BV1Ju41197aw&cid=500750736&page=1" frameborder='0' allowfullscreen>="true"</iframe>"

@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: video
 teaser: "戴上耳机，仔细感受每一句台词"
 permalink: "/video/"
 #header:

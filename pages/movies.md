@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-#title: "观影记录"
-teaser: "三个月以来我们一起看过了11部完整的电影"
+title: "Movies"
+teaser: "三个月以来我们一起看过了12部完整的电影"
 permalink: "/movies/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -11,6 +11,7 @@ header:
 * 2021-10-23 沙丘
 * 2021-10-30 007 无暇赴死
 * 2021-11-07 情书
+* 2021-11-08 突袭
 * 2021-11-09 joker
 * 2021-11- 被解救的姜戈
 * 2021-11-20 蝙蝠侠黑暗骑士崛起

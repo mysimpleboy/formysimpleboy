@@ -6,22 +6,28 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_9.jpg
+  image_fullwidth: header-unsplash-001.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Love Letters"
+  # url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://mysimpleboy.github.io/blog/'
+  image: love-letter.jpg
+  text: '总写小作文真是让人讨厌，可是我管不住自己，总是想记录下来些什么，将我的爱打包好小心翼翼再落笔。'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Anniversary video"
+  url: 'https://github.com/mysimpleboy/mysimpleboy.github.io/'
+  text: '这是我给你制作的三个月纪念视频，我曾经说过要给你一个惊喜，这个视频只是很小的一部分'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://mysimpleboy.github.io/images/love-unsplash.jpg" width="302" height="200" alt=""/></a>'
+
+  # mysimpleboy.github.io/images/love-unsplash.jpg
+
+  
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Movies"
+  # url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://github.com/mysimpleboy/mysimpleboy.github.io'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '记录一下我们在一起看过的电影，随着时间的推移，好像我们已经很少在一起欣赏完一部电影了。'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,11 +38,17 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+
+#callforaction:
+  # url: https://tinyletter.com/feeling-responsive
+  #url: https://www.jianshu.com/p/9f71e260925d
+  #text: love you
+  #style: alert
+
 permalink: /index.html
+
+
+###
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -46,7 +58,12 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <!-- <iframe width="1280" height="720" src="https://www.bilibili.com/video/BV1N741177Ga" frameborder="0" allowfullscreen></iframe> -->
+    <iframe src="//player.bilibili.com/player.html?aid=508867519&bvid=BV1Ju41197aw&cid=500750736&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
+
+

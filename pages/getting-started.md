@@ -1,25 +1,23 @@
 ---
-layout              : page
-show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+layout              : page-fullwidth
+# show_meta         : false
+title               : "属于简单男孩的一个网站"
+#subheadline         : "保留一份岁月的回忆"
+# teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started/"
 ---
-1. Open `_config.yml` and work it through, it's well documented.
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Ccustomize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+其实就是突发奇想，想送一个有心意的礼物给我宝儿，从照片书到H5再到这个网站的想法，经历了很长的时间。  
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+从零开始建一个网站对我这个菜鸡来说确实还是挺难的，想起宝儿的笑容就又充满了动力。
+忘记有没有和你讲过，我真的好喜欢你笑啊，不说话都充满了魅力。    
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+以后这个网站会一直更新的！
+随着我们在一起时间越长，它的内容会越来越丰富！
+就这样一起保留一份岁月的回忆，一份爱的记忆！
+<br/>
+
+**我爱你！**
+

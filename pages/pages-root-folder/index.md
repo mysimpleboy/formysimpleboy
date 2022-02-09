@@ -25,7 +25,7 @@ widget2:
 widget3:
   title: "Movies"
   # url: 'https://github.com/Phlow/feeling-responsive'
-  url: 'https://github.com/mysimpleboy/mysimpleboy.github.io'
+  url: 'https://github.com/mysimpleboy/mysimpleboy.github.io/movies/'
   image: widget-github-303x182.jpg
   text: '记录一下我们在一起看过的电影，随着时间的推移，好像我们已经很少在一起欣赏完一部电影了。'
 #
